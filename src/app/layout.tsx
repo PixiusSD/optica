@@ -11,6 +11,8 @@ export const metadata: Metadata = {
   description: 'Premium Eyewear',
 }
 
+export const runtime = 'edge'
+
 export default async function RootLayout({
   children,
 }: {
