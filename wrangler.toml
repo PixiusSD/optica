@@ -1,7 +1,7 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "optica"
-compatibility_date = "2024-04-03"
-compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2024-11-18"
+compatibility_flags = ["nodejs_compat", "cache_api_local_namespacing"]
 pages_build_output_dir = ".vercel/output/static"
 
 [vars]
