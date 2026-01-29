@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:cloudflare": "next-on-pages"
+    "build:cloudflare": "next-on-pages --minify"
   },
   "dependencies": {
     "@supabase/ssr": "^0.8.0",
