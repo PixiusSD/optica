@@ -18,7 +18,7 @@
     "react-dom": "19.2.3"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "^0.3.11",
+    "@opennextjs/cloudflare": "latest",
     "@cloudflare/next-on-pages": "^1.13.16",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
